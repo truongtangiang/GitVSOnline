@@ -1,0 +1,7 @@
+{
+  "name": "CordovaWithGit",
+  "version": "1.0.0",
+  "dependencies": {
+    "git-config-path": "^0.1.0"
+  }
+}
